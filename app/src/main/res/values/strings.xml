@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">MyNotes_Kotlin</string>
+    <string name="app_name">Notes</string>
     <string name="enter_note_content">Введите описание заметки</string>
     <string name="enter_note_title">Введите название заметки</string>
 </resources>
