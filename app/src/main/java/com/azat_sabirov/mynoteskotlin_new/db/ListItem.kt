@@ -4,4 +4,6 @@ class ListItem {
     var title = "empty"
     var content = "empty"
     var uri = "empty"
+    var time = ""
+    var id = 0
 }

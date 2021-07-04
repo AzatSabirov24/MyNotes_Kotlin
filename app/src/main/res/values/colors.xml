@@ -9,5 +9,6 @@
     <color name="white">#FFFFFFFF</color>
     <color name="back_blue">#1193FA</color>
     <color name="dark_blue">#1C3EF8</color>
+    <color name="tvTime">#E9E5E5</color>
 
 </resources>
